@@ -1,0 +1,11 @@
+.jumbotron{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin-bottom: 0;
+}
+.next{
+	margin-left: 15px;
+}
+.previous{
+	margin-right: 15px;
+}
